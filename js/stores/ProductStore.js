@@ -1,6 +1,6 @@
 var AppDispatcher = require('../dispatcher/AppDispatcher');
 var EventEmitter = require('events').EventEmitter;
-var FluxCartCostants = require('../costants/FluxCartCostants');
+var FluxCartCostants = require('../constants/FluxCartConstants');
 var _ = require('underscore');
 
 // Define initial data points
